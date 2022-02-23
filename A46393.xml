@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Just vindication on the behalf of Iohn Eliot Esq. in answer to petitions preferred against him to His Excellency and to Mr. Speaker of the Honourable House of Commons by some Officers under the command of Major Generall Laughorne.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46393</idno>
+            <idno type="STC">Wing J1246</idno>
+            <idno type="STC">ESTC R27125</idno>
+            <idno type="EEBO-CITATION">09657775</idno>
+            <idno type="OCLC">ocm 09657775</idno>
+            <idno type="VID">43934</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46393)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43934)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Just vindication on the behalf of Iohn Eliot Esq. in answer to petitions preferred against him to His Excellency and to Mr. Speaker of the Honourable House of Commons by some Officers under the command of Major Generall Laughorne.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eliot, John, --  Esq.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43934:1"/>
+            <pb facs="tcp:43934:1" rendition="simple:additions"/>
+            <p>A juſt VINDICATION On the behalf of Iohn Eliot <abbr>Eſq</abbr> IN ANSWER TO PETITIONS Preferred againſt him to His Excellency And to Mr. Speaker Of the Honourable HOUSE of COMMONS, By ſome Officers under the Command of Major Generall LAUGHORNE.</p>
+            <p>Imprinted in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43934:2"/>
+            <pb n="1" facs="tcp:43934:2"/>
+            <head>A juſt Vindication on the behalfe of JOHN ELLIOT <abbr>Eſq</abbr> in anſwer to Petitions preferred againſt him to his Ex<g ref="char:EOLhyphen"/>cellency and to Mr. Speaker of the ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons, by ſome Officers under the command of Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Laughorne.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is nothing more ſaddens the hearts of honeſt men, then to be unworthily traduced with falſe ſug<g ref="char:EOLhyphen"/>geſtions preſented with a colour of truth; and happy is he who not<g ref="char:EOLhyphen"/>withſtanding ſuch provocations, will entertaine no perſecuting thoughts to ſtick or lye downe with him: And I am confident the Gen<g ref="char:EOLhyphen"/>tleman in whoſe vindication I write, if he hath not attained to his full wiſhes therein, yet he doth endeavour to ſtudy Chriſtian forbearence and paſ<g ref="char:EOLhyphen"/>ſively looke upon ſuch malicious calumnies as <hi>Da<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> did on <hi>S<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>'s Cu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſing,</hi> rather than harbour im<g ref="char:EOLhyphen"/>placability of reveng<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; but in his juſt vindication as a friend to truth and to undeceive ſuch who have read a Petition againſt him, beleeving it being once printed it might be ſtuffed in other weekly Pamph<g ref="char:EOLhyphen"/>lets and diſperſed &amp; the Reader prejudiced in opini<g ref="char:EOLhyphen"/>on with the falſities therof; I ſhall firſt therefore ob<g ref="char:EOLhyphen"/>ſerve
+<pb n="2" facs="tcp:43934:3"/>the heads of the ſaid Petition ſuggeſted againſt Mr. <hi>Eliot</hi> the accuſed, as I found them in the end of a Triviall Pamphlet of Prince <hi>Griffies</hi> Hiſtories, and then in order give you an anſwer to every particular.</p>
+            <p>The Petition was directed to his Excellency, in<g ref="char:EOLhyphen"/>tituled, <hi>The b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ble Petition of the Colonels, Lieutenant Co<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lonels, Maj<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Captaines, and other Officers under the Com<g ref="char:EOLhyphen"/>mand of Major Generall Laughorne.</hi>
+            </p>
+            <list>
+               <item>1. <hi>That their Major Generals honour and his Forces are tainted by falſe aſperſtons, as if they would joyne with</hi> Poyer <hi>to maintaine the Caſtle of Pembroke againſt the Parliament.</hi>
+               </item>
+               <item>2 <hi>That Mr.</hi> John Eliot <hi>is the profeſſed Author of Ac<g ref="char:EOLhyphen"/>cuſation.</hi>
+               </item>
+               <item>3 <hi>That Mr.</hi> Eliot <hi>hath executed the Commiſſion of Array in the County of</hi> Pembroke, <hi>and that he be enjoyned to an<g ref="char:EOLhyphen"/>ſwer Articles of Delinquency againſt him.</hi>
+               </item>
+               <item>4 <hi>That he hath defrauded the Army of Proviſions ſent them by the Parliament.</hi>
+               </item>
+               <item>5 <hi>That he endeavours to defame all thoſe that have faith<g ref="char:EOLhyphen"/>fully ſerved the Parliament.</hi>
+               </item>
+               <item>6 <hi>That Maſter</hi> Eliot <hi>may not diſpoſe of your Petitioners Armes.</hi>
+               </item>
+               <item>7 <hi>That he may he made uncapable to proceed in his uſur<g ref="char:EOLhyphen"/>ped Agency.</hi>
+               </item>
+            </list>
+            <p>Theſe are in briefe the particulars charged in the ſaid Petition againſt Mr. <hi>Eliot,</hi> which in the frontice piece carries with it the countenance of Co<g ref="char:EOLhyphen"/>lonels, Lieutenant Colonels Majors, when it is well knowne there is but one Colonell, one Lieutenant Colonell, and one Major in the whole number; here is their firſt untruth; And I ſhall paſſe by their flouriſhes and their large demonſtration of their merits and profeſsions to his Excellency in the firſt par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their Petition, and onely adde my wiſh they may as really performe as they have profeſſed tou<g ref="char:EOLhyphen"/>ching their disbanding, and ſo anſwer the reſt.</p>
+            <pb n="3" facs="tcp:43934:3"/>
+            <p>The firſt is moſt wrongfully alleadged againſt Mr. <hi>Eliot,</hi> for what was printed was to this effect, That Col. <hi>Rice Powell</hi> being deſired by Letter from Col. <hi>Horton</hi> to aſsiſt the Gentlemen who had beſieged <hi>Poyer</hi> in the Caſtle of <hi>Pembroke,</hi> with the Forces un<g ref="char:EOLhyphen"/>der his Command, did abſolutely refuſe it: This Mr. <hi>Eliot</hi> received from good hands out of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Pembroke;</hi> and this was afterward confirmed to Mr <hi>Eliot</hi> by a Gentleman of that County, who ſaid he ſaw Col. <hi>Powels</hi> Letter to Col. <hi>Horton</hi> to the effect aforeſaid; And on the ſecond day of March the Generall received a Letter from Col. <hi>Fleming,</hi> and amongſt other particulars he gave an accompt of to the Generall touching that Caſtle, he related theſe words, <hi>viz. I finde that ſome of Major Generall</hi> Laug<g ref="char:EOLhyphen"/>hornes <hi>Forces are of</hi> Poyers <hi>Councell, and great hopes he hath of making his Party good againſt any Power.</hi> This al<g ref="char:EOLhyphen"/>ludes much to make good what was aſſerted by Mr. <hi>Eliot;</hi> and in the end of this ſheet the Reader may peruſe a Letter from the Commiſsioners to <hi>Powell,</hi> wherein he may ſee how <hi>Powell</hi> and the reſt of the Petitioners have performed their profeſsions to the Generall touching their disbanding.</p>
+            <p>To the ſecond, Mr. <hi>Eliot</hi> is not the profeſſed accuſer of any, but doth really wiſh the Petitioners were as free from malice and animoſsitie as him<g ref="char:EOLhyphen"/>ſelfe; he will juſtifie any particular he is Author of<g ref="char:punc">▪</g> And as for their Charge of Delinquency, which they threaten him withall, they cannot poſsibly do him a greater ſavour, for in his Anſwer he doubts not onely to cleare himſelfe with good advantage, but ſhall therein make it advantagious to the State, by diſcovering the actions of the accuſers ſo much accomptable.</p>
+            <p>There is nothing more falſe and ſcandalous than the third for no man living can prove that ever Maſter <hi>Eliot</hi> did execute the Commiſsion of Array,
+<pb n="4" facs="tcp:43934:4"/>and if ſuch a thing had been, it muſt have been acted in publique; But Mr. <hi>Eliot</hi> did never as much as ſee the Commiſsion of Array, neither was it ever opened or executed in the County of <hi>Pembroke:</hi> But this Charge carries with it ſuch a clouding full mouthed aſperſion, that it's enough at firſt view to blaſt the ſtrongeſt and cleereſt reputation, untill the miſt be diſpeld, and their falſhood appeare.</p>
+            <p>To the fourth; Its well knowne Mr. <hi>Eliot</hi> never had the buying of any Proviſions, though within this three yeeres he hath ſent downe to the County of <hi>Pembroke</hi> according to ſeverall Ordinances of Par<g ref="char:EOLhyphen"/>liament, in Monies, Armes, Ammunition, and Proviſions, about the ſumme of 9000 <hi>l.</hi> Mr. <hi>Arthur Owen</hi> being alwaies joyned with Mr. <hi>Eliot</hi> in all Or<g ref="char:EOLhyphen"/>dinances for ſending Proviſions unto the County of <hi>Pembroke,</hi> and both of them together have alwaies received the Proviſions ready packed up by the Mer<g ref="char:EOLhyphen"/>chant that bought them, and ſo conveyed them from Tower Wharff aboard the Ships, ſo that if Mr. <hi>Eliot</hi> had been deceiptfully bent, he never had the opportunity; but for every penny they can prove that Mr. <hi>Eliot</hi> hath defrauded the State, he will be bound to give them 100 <hi>l.</hi> This aſperſion be<g ref="char:EOLhyphen"/>ing equally ſcandalous and falſe with all the reſt.</p>
+            <p>To the fifth, There is no man living can prove that ever Mr. <hi>Eliot</hi> ſpoke any words of derogation of any becauſe they loved the Parliament, for he hath been alwaies a lover of ſuch; he hath two Sons that have been alwaies in Armes for the Par<g ref="char:EOLhyphen"/>liament under the command of Major Generall <hi>Laughorne</hi> ſince the beginning of the Wars there, that are knowne to have been in as much action and as faithfull lovers of the Parliament as any in that Ar<g ref="char:EOLhyphen"/>my; therefore any one may judge, he would be ve<g ref="char:EOLhyphen"/>ry cautious and chary of laying aſperſions on that Army in generall: This allegation being as falſe as all the reſt.</p>
+            <pb n="5" facs="tcp:43934:4"/>
+            <p>To the ſixth, Mr. <hi>Eliot</hi> doth not deſire to have the cuſtody of their Armes, or to diſpoſe of them, neither doth he know what ground they have to ſuggeſt to themſelves ſuch a thing, if they meane their Armes in the Countrey, Mr. <hi>Eliot</hi> is at a ſuffi<g ref="char:EOLhyphen"/>cient diſtance from them; and if they intend to disband, what need they be troubled who ſhall have their Armes</p>
+            <p>To the ſeventh, concerning Mr. <hi>Eliots</hi> Agency, I ſhall deſire leave of the Reader to digreſſe a little, and give him the true ground of Mr. <hi>Eliots</hi> Agency, before I anſwer that point: Mr. <hi>Eliot</hi> being ever ve<g ref="char:EOLhyphen"/>ry active for the Parliament, was himſelfe in per<g ref="char:EOLhyphen"/>ſon with two of his Sons and Servants, at the firſt taking in of <hi>Carmarthen</hi> to the Parliament in May, 1644. and ſeverall other Caſtles of that County, commanded there the Trained Band of the hun<g ref="char:EOLhyphen"/>dred he lived in; he garriſoned his houſe for the Parliament, and for want of timely reliefe from Major Generall <hi>Laughorne,</hi> who promiſed it, he and two of his Sons were then taken priſoners by <hi>Ger<g ref="char:EOLhyphen"/>hands</hi> Forces; Mr. <hi>Eliot</hi> was afterward exchanged for Col. <hi>Pert,</hi> his Sons were priſoners in <hi>Carmarthen</hi> Caſtle about foure moneths, and Mr. <hi>Eliot</hi> and his two Sons were endicted of high Treaſon at <hi>Car<g ref="char:EOLhyphen"/>marthen</hi> before <hi>David Jenkins,</hi> then Judge for bearing Armes againſt the King; and the ſaid Mr. <hi>Jenkins</hi> gave ſentence of death on Mr. <hi>Eliots</hi> eldeſt Son; and in Auguſt 1644 the ſaid Forces burned Mr. <hi>Eliots</hi> ſaid dwelling nouſe, and ſix of his houſes in the Towne of <hi>Narberth,</hi> and plundered him of all his perſonall Eſtate; and in the yeere following about Aprill, 1645. at <hi>Gerhards</hi> ſecond coming downe; his Forces plundered Mr. <hi>Eliot</hi> againe of all the ſtock he had gotten in that interim, his wife and twelve children and grandchildren left without habitation or ſubſiſtance, and he totally ruined in his fortune.
+<pb n="6" facs="tcp:43934:5"/>Now I come to anſwer his point of Agency; Mr. <hi>Eliot</hi> being one of the Committee of that aſſociati<g ref="char:EOLhyphen"/>on, and in this ſad condition was voted Agent to negotiate the affaires of the diſtreſſed County of <hi>Pembroke</hi> with the Parliament by the Committee, not one voice contradicting; which truſt Mr. <hi>Eliot</hi> undertooke, and hath effectually performed it for theſe three yeers laſt paſt, as aforeſaid; And in that interim he was confirmed by two ſeverall Orders to continue in his Agency by the ſaid Committee; and Mr. <hi>Eliots</hi> great toyle, care and diligence, in the conveying down of moneys and proviſions for Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Laughornes</hi> Army, is well knowne to ſe<g ref="char:EOLhyphen"/>verall Members of the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons; And had not Mr. <hi>Eliots</hi> affection to the Par<g ref="char:EOLhyphen"/>liament and his Country obliged him to it; the ſal<g ref="char:EOLhyphen"/>lary he received from the Committee was ſmall en<g ref="char:EOLhyphen"/>couragement to him, for he never received above 30 <hi>l.</hi> from the Committee during the three yeers aforeſaid. Now let all men judge whether his Agen<g ref="char:EOLhyphen"/>cy were uſurped or not. Having anſwered the fal<g ref="char:EOLhyphen"/>ſities of the ſaid Petition, I will let the Reader ſee from whom the ſaid Petition tooke its riſe; Let him but enquire who was lately imployed downe to the County of <hi>Pembroke</hi> to disband the ſupernu<g ref="char:EOLhyphen"/>meraries, and to raiſe the monethly Aſſeſſement; and if he doth but know that party, and the malice he beares Mr. <hi>Eliot,</hi> he muſt needs know the influ<g ref="char:EOLhyphen"/>ence that party hath over the Petitioners, and then cannot but judge the Petition to be the conſequence thereof; the ſaid party and the Petitioners have obſtructed the ſaid Committee from ſending Mr. <hi>Eliot</hi> his annuall exhibition due for his Agency. The ſaid party cauſed one <hi>John Poyer,</hi> who now is proclaimed Traytor by Ordinance of Parliament, for fortifying the Caſtle of <hi>Pembroke</hi> againſt the Par<g ref="char:EOLhyphen"/>liament and Generall, to put in Articles againſt Mr.
+<pb n="7" facs="tcp:43934:5"/>
+               <hi>Eliot</hi> and other Gentlemen to the Committee of <hi>Glocester</hi> about two yeers ſince. Secondly, he cau<g ref="char:EOLhyphen"/>ſed one <hi>John Young,</hi> who is likewiſe in Rebellion with the ſaid <hi>Poyer</hi> in the ſaid Caſtle, to exhibite Articles againſt the ſaid Mr. <hi>Eliot</hi> and the ſaid Gen<g ref="char:EOLhyphen"/>tlemen, at the Head Quarters at <hi>Pniney,</hi> being the ſame in ſubſtance as the ſaid ſcandalous Petition; but as ſoone as Mr <hi>Eliots</hi> and the ſaid Gentlemens Anſwers were read in both places they were diſ<g ref="char:EOLhyphen"/>miſſed, to their great advantage in their reputations, by the ſeverall Committees before whom the buſi<g ref="char:EOLhyphen"/>neſſe was heard. And after the Ordinance paſt for the eſtabliſhed Forces of the Kingdome and for the disbanding of Supernumeraries and there being no appearance of the Enemy in the ſaid Aſſociation, but all reduced into the obedience of the Parlia<g ref="char:EOLhyphen"/>ment, and the Counties of <hi>Pembroke, Carmarthe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Cardigan,</hi> being extremely ruined in the late Warre, eſpecially the County of <hi>Pembroke,</hi> whoſe ſufferings and miſeries are not to be paralleld by any County of: this Kingdome, fire and ſword having its full rage, untill it was even glutted in the bowels there<g ref="char:EOLhyphen"/>of Mr. <hi>Eliot</hi> hereupon indeavoured what in him lay to have the Petitioners and the ſaid Forces diſ<g ref="char:EOLhyphen"/>banded that the poore Counties aforeſaid might have ſome time to reſpi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and breathe after their tedious, long, irkſome burthen of free Quarter; but Mr. <hi>Arthur Owen</hi> aforeſaid, being the continued friend of the Petitioners, and firſt Couſen to the Commander in chiefe of thoſe Forces, did alwaies oppoſe Mr. <hi>Eliot</hi> therein, and to keepe the ſaid Forces undisbanded; herein Mr. <hi>Eliot</hi> acting con<g ref="char:EOLhyphen"/>trary to the Petitioners intereſt in order to the pub<g ref="char:EOLhyphen"/>lique, drew their malice conſequently on him. But truly I wonder how men ſo guilty as the Petition<g ref="char:EOLhyphen"/>ers are, ſhould be ſo malitiouſly bold to traduce Mr, <hi>Eliot</hi> with ſuch falſities, being a man of approved
+<pb n="8" facs="tcp:43934:6"/>and knowne integrity to the Parliament; for a clee<g ref="char:EOLhyphen"/>rer demonſtration cannot be of his affection than his activeneſſe and ſufferings for them, which are ſufficient teſtimonies in his behalfe, beſides his faithfull ſolicitations here in the reducing South-Wales to the obedience of the Parliament. And as Mr. <hi>Eliot</hi> hath preferred alwaies to be in love and charity with all men before malice and revengeful<g ref="char:EOLhyphen"/>neſſe; ſo he as little values the inveterate and irre<g ref="char:EOLhyphen"/>concileable ſpleene of his Enemies: And though he hath many vigilant and potent adverſaries that drive at his ruine, yet the candidneſſe of his actions, and the juſt grounds he proceeds on, hath ſo prote<g ref="char:EOLhyphen"/>cted him under God hitherto, that they cannot much boaſt of their prevailences againſt him. Mr. <hi>Eliot</hi> hath no ambition or ſelfe ſeeking ends, onely he truſts in the goodneſſe of God and the Parlia<g ref="char:EOLhyphen"/>ment, to enable him to be in the ſame condition he was in long before the late Warre, being then in Commiſsion of the Peace in the County of <hi>Pem<g ref="char:EOLhyphen"/>broke,</hi> and his family as ancient Gentry as any of that County; lived beloved in his County in a commendable and peaceable condition. To con<g ref="char:EOLhyphen"/>clude, I wiſh the Petitioners would in imitation to Col-<hi>Lewis</hi> and his Regiment with Captain <hi>Lloyd,</hi> Capt. <hi>Jones,</hi> Capt. <hi>Vaughan</hi> and Capt <hi>Sli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wman,</hi> yeeld their obedience in disbanding according to the Or<g ref="char:EOLhyphen"/>dinance of Parliament; but I doubt their owne actions will daily witneſſe to the contrary againſt them; for why hath ſome of the prime of the Pe<g ref="char:EOLhyphen"/>titioners drawne downe their Foot, their Magazines and Guns from <hi>Carmarthin</hi> to <hi>Tenby,</hi> and fortifie the ſaid Towne, ſince they refuſed to make their appea<g ref="char:EOLhyphen"/>rance before the Commiſsioners to be paid off ac<g ref="char:EOLhyphen"/>cording to the Ordinance? why do they mutter that they will declare for the King, and accordingly make preparation under hand? But I ſtill wiſh their
+<pb n="9" facs="tcp:43934:6"/>future obedience to the Ordinance of Parliament may ex<g ref="char:EOLhyphen"/>piate their former diſobedience, and that they may leave their ſelfeiſh deſtructive ends, and become lovers of their Countrey.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>WE received an Ordinance of Parliament, attended with ſeverall Inſtructions for the disbanding of Major Generall <hi>Laughornes</hi> Forces in the aſſociated Coun<g ref="char:EOLhyphen"/>ties of <hi>Carmarthen, Cardigan,</hi> and <hi>Pembroke,</hi> in pur<g ref="char:EOLhyphen"/>ſuance of which Ordinance we the Commiſſioners appoint<g ref="char:EOLhyphen"/>ed for that ſervice did addreſſe to the moſt convenient place we could thinke upon for the eaſe of the Gentlemen of all Quarters to meet us, and to contribute their advice for the well ſettlement of the Country, and to anſwer the expecta<g ref="char:EOLhyphen"/>tion of thoſe that put us in truſt; ſo we ſitting at <hi>Carmar<g ref="char:EOLhyphen"/>then,</hi> where your ſelfe was then preſent and did participate with what was then agreed upon; we in due obedience to the ſaid Ordinance, and to accompliſh the reſolutions by us then reſolved, appointed ſeverall Troops to be at <hi>Lambeder</hi> on wedneſday the firſt of March, there to receive their now preſent pay allowed them by the Ordinance, and to be diſ<g ref="char:EOLhyphen"/>banded, Colonell <hi>Lewis,</hi> Captaine <hi>Jones,</hi> Captaine <hi>Lloyd,</hi> Captaine <hi>Vaughan,</hi> Captaine <hi>Read,</hi> Captaine <hi>Sloeman;</hi> and ſeverall other Officers of Colonell <hi>Lewis</hi> Regiment, ap<g ref="char:EOLhyphen"/>peared that day with ſeverall Troops, whom we muſtred and their number, and by us regiſtred, of which we ſhall give an accompt to the honourable Houſes and his Excel<g ref="char:EOLhyphen"/>lency; yet notwithſtanding our truſt ſo well performed, and as we thought our Countrey disburdened of Free-Quarter, or any other Impoſitions on the Inhabitants, by them we are given to underſtand that a party of Horſe, namely Captain <hi>Addis</hi> and Captaine <hi>Morgan,</hi> who refuſed their appearance before us, to be Muſtred and Disbanded and Paid accord<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:43934:7"/>to the Orders agreed by all the Commiſſioners at <hi>Car<g ref="char:EOLhyphen"/>marthen,</hi> have ſince made their Inrode into the County, and forced the people to a new obedience of Free-Quarter and Taxations ſetled and commanded by them, and what other may be within the command of a Souldier, without our privity or conſent, being the appointed Commiſſioners for that imployment. Sir, we deſire to be rightly under<g ref="char:EOLhyphen"/>ſtood whether this intruſion be done by your Order, though we have better confidence of your fidelity &amp; obedience to the Ordinance of both Houſes; yet we ſhall deſire you to expreſſe your ſelfe, that we may be ſatisfied, and render a candid conſtruction of your fidelity to thoſe as we conceive under whom you have hitherto fought: To this end we deſire you will give order for their ſpeedy removall out of this coun<g ref="char:EOLhyphen"/>try, otherwiſe we hope it will not be ill taken if the country joyne in a courſe to relieve themſelves from a burthen under which they have ſo long groaned. Your ſpeedy anſwer is de<g ref="char:EOLhyphen"/>ſired by your ſervants,</p>
+                  <closer>
+                     <signed>
+                        <hi>James Philippes. Thomas Lloyd,</hi> et al.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>EVen as I had concluded there appeares more newes in Letters to his Excellency, which adds much to Mr. <hi>Eliots</hi> Juſtication, and to the Petitioners accuſation:</p>
+            <p>That part of Major Generall <hi>Laughornes</hi> Forces ſei<g ref="char:EOLhyphen"/>zed upon thoſe Peeces of Battery ſent from Gloceſter towards Colonell <hi>Flemmings</hi> and brought them to Pem<g ref="char:EOLhyphen"/>broke Caſtle, that they have joyntly with <hi>Poyer</hi> fallen upon Colonel <hi>Flemmings</hi> 100 foot there being then no more come to him, and on thoſe of the Country that joyned with him, and have either ſlaine or taken pri<g ref="char:EOLhyphen"/>ſoners Colonell <hi>Flemming, Roger Lort,</hi> Eſquire, Cap<g ref="char:EOLhyphen"/>taine <hi>Cuney,</hi> Maſter <hi>John Lort,</hi> and many others, and have hereby raiſed the Siege.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43934:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
